@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey! 👋
+
+I'm Benjamin, I'm a software engineer 👨‍💻
+
+- 🔭 Currently researching distributed systems at the [George Washington University](https://www.gwu.edu)
+  - Check out [openNetVM](https://github.com/sdnfv/openNetVM)
+- 🔋 Previously a SWE for [Tesla](https://tesla.com/energy) working on distributed energy systems.
+  - One of the coolest things I was involved with, the [Tesla Virtual Power Plant](https://www.tesla.com/support/energy/tesla-virtual-power-plant-pge-2022)
 
 <!--
 **marascoben/marascoben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
