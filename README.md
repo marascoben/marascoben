@@ -1,10 +1,13 @@
 ### Hey! I'm Benjamin. 👋
 
+I'm currently an engineer at [Northrop Grumman](https://www.northropgrumman.com/space/) working on space systems, and a masters student at the [George Washington University](https://www.gwu.edu)
 
-- 🔬 Currently researching distributed systems & high performance networking at the [George Washington University](https://www.gwu.edu)
-  - Check out some stuff from our lab; [openNetVM](https://github.com/sdnfv/openNetVM) and [sledge](https://github.com/gwsystems/sledge-serverless-framework)
-- 🔋 Previously a SWE for [Tesla Energy](https://tesla.com/energy) working on distributed systems & batteries in the cloud
-- 🌱 Outside of research, I'm learning about [C#](https://dotnet.microsoft.com/en-us/), [Golang](https://go.dev/), and working on my masters in CS
+- 🔬 Currently researching serverless functions, edge computing, and WebAssembly with the [gwsystems lab](https://github.com/gwsystems) 
+  - Check out [sledge](https://github.com/gwsystems/sledge-serverless-framework) and [aWsm](https://github.com/gwsystems/awsm)
+- Some of my previous work
+  - 🔋 SWE at [Tesla Energy](https://tesla.com/energy) working on distributed systems & batteries in the cloud
+  - 🏥 Systems at [Johns Hopkins](https://hopkinsmedicine.org/about) working on critical infrastructure
+- 🌱 Outside of research I'm currently learning [Rust](https://www.rust-lang.org/)
 - 📫 You can reach me on [LinkedIn](https://linkedin.com/in/marascoben)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a huge fan of the [SmartLess](https://www.smartless.com/) podcast, and I'm currently growing a few (too many) lemon trees
