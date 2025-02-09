@@ -5,10 +5,8 @@ I'm currently a software engineer at [Northrop Grumman](https://www.northropgrum
 - Some of my previous work
   - 🔋 SWE at [Tesla Energy](https://tesla.com/energy) working on distributed systems & batteries in the cloud
   - 🏥 Systems at [Johns Hopkins](https://hopkinsmedicine.org/about) working on critical infrastructure
-- 🌱 I'm currently learning [Rust](https://www.rust-lang.org/)
+- 🔭 I’m currently working on a small transit app for the DC area using fastapi and swift.
 - 📫 You can reach me on [LinkedIn](https://linkedin.com/in/marascoben)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a huge fan of the [SmartLess](https://www.smartless.com/) podcast, and I'm currently growing a few (too many) lemon trees
 
 <!--
 **marascoben/marascoben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
